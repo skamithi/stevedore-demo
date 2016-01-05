@@ -12,7 +12,7 @@ setup(
     include_package_data=True,
     entry_points={
         'me.example.formatter': [
-            'field = me.example.fields.FieldList',
+            'field = me.example2.fields.FieldList',
         ]
     },
     zip_safe=False
