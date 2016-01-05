@@ -1,4 +1,5 @@
-from stevedore.example import base
+from me.example import base
+
 
 class Simple(base.FormatterBase):
 
